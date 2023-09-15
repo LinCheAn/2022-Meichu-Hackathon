@@ -1,0 +1,11 @@
+先train 60000次，再跑evolve
+fitness 改成f1 加重
+改loss fn權重，class最重
+
+device = 0,1,2,3
+
+可調大batch size用多台，但evolve不能多台
+
+
+
+epoch * generation

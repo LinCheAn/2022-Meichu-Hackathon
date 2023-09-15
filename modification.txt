@@ -1,0 +1,5 @@
+anchor box:
+https://blog.csdn.net/qq_43211132/article/details/102619661
+
+kmeans source: 
+https://github.com/lars76/kmeans-anchor-boxes/blob/master/kmeans.py
